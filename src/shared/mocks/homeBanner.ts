@@ -1,0 +1,1 @@
+export const banner = [{id: '123', description:'Grand Vitara 2.0 Automática 4x2 - 2011', image_url: 'https://img2.icarros.com/dbimg/imgnoticia/4/21887_1'},{id: '456', description:'308 THP AT 2015', image_url: 'https://img1.icarros.com/dbimg/galeriaimgmodelo/2/27121_1.webp'},{id: '789', description:'Palio', image_url: 'https://img.olx.com.br/images/15/150348654435521.jpg'}]
